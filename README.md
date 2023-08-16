@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsaid" /> </p>
 
+<p>I'm a goal oriented, determined and ambitious Person, I'm also Multi-Skilled and Self-Taught, with a passion for Front-End Web Development, Computer Hardware’s and Graphic Designs.</p>
+
+<a href="https://www.buymeacoffee.com/ahmedsaid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmeddsaid" alt="ahmeddsaid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmedsaid9610" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedsaid9610?logo=twitter&style=for-the-badge" alt="ahmedsaid9610" /></a> </p>
