@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
 <h3 align="center">A Passionate Frontend Developer From Egypt</h3>
 
+<p align="center">
+  <img align="center" src="https://cdn.discordapp.com/attachments/1166847301457821699/1223653885433090109/Ahmed_Said_1280_x_640_px.png?ex=661aa37c&is=66082e7c&hm=42d56b8e5b131787ccad952ea24143fc6d208c7ec5bf55a5ed301967596d2759&" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsaid" /> </p>
 
 <p>I'm a goal oriented, determined and ambitious Person, I'm also Multi-Skilled and Self-Taught, with a passion for Front-End Web Development, Computer Hardware’s and Graphic Designs.</p>
