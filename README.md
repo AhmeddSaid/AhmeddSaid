@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer From Egypt</h3>
 
 <p align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/1166847301457821699/1223653885433090109/Ahmed_Said_1280_x_640_px.png?ex=661aa37c&is=66082e7c&hm=42d56b8e5b131787ccad952ea24143fc6d208c7ec5bf55a5ed301967596d2759&" />
+  <img align="center" src="https://cdn.discordapp.com/attachments/1166847301457821699/1223809310006579231/Ahmed_Said_1280_x_640_px.gif?ex=661b343c&is=6608bf3c&hm=10c80d948d064b7186d82f00db0e5f4df36d5fc16cd6ea60a807e88b8b08085b&" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsaid" /> </p>
