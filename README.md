@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
-<h3 align="center">A Passionate Frontend Developer From Egypt</h3>
+<h3 align="center">A Passionate Web Developer From Egypt</h3>
 
 <p align="center">
   <img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbG-lC5mfS4u3MwIZuk7AuKdGBRKI47HER1Ah0yM2PwEKRrcCYrQTr6eDkrEVkajosQ3BwWJuiLp2MKplP-30jsUX3PoFc0nKo=s1600-rw-v1" />
