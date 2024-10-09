@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer From Egypt</h3>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/ahmeddsaid/repository/main/assets/cover.gif" />
+  <img align="center" src="https://raw.githubusercontent.com/AhmeddSaid/AhmeddSaid/main/assets/cover.gif" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsaid" /> </p>
