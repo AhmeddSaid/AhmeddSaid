@@ -2,12 +2,15 @@
 <h3 align="center">A Passionate Web Developer From Egypt</h3>
 
 <p align="center">
-  <img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbG-lC5mfS4u3MwIZuk7AuKdGBRKI47HER1Ah0yM2PwEKRrcCYrQTr6eDkrEVkajosQ3BwWJuiLp2MKplP-30jsUX3PoFc0nKo=s1600-rw-v1" />
+  <img align="center" src="https://raw.githubusercontent.com/ahmeddsaid/repository/main/assets/cover.gif" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsaid" /> </p>
 
-<p>I'm a goal oriented, determined and ambitious Person, I'm also Multi-Skilled and Self-Taught, with a passion for Front-End Web Development, Computer Hardware’s and Graphic Designs.</p>
+<p>I am a dedicated and ambitious front-end web developer with a strong passion for creating dynamic and responsive web applications. Proficient in ReactJS, TailwindCSS, MUI, and Axios
+I leverage modern web technologies to deliver high-quality, user-centric solutions. 
+As a self-taught developer, I continuously seek opportunities to enhance my skills and contribute effectively to innovative projects.
+</p>
 
 <a href="https://www.buymeacoffee.com/ahmedsaid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -15,9 +18,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedsaid9610" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedsaid9610?logo=twitter&style=for-the-badge" alt="ahmedsaid9610" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.ahmedsaidadnan.com](https://www.ahmedsaidadnan.com)
+- 👨‍💻 All of my projects are available at **[www.ahmedsaidadnan.com](https://www.ahmedsaidadnan.com)**
 
-- 📫 How to reach me **contact@ahmedsaidadnan.com**
+- 📫 How to reach me **ahmedsaidadnan@outlook.com**
 
 - ⚡ Fun fact **I Enjoy EVERYTHING I Do**
 
