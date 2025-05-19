@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddsaid&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddsaid" /> </p>
 
-<p>I am a dedicated and ambitious front-end web developer with a strong passion for creating dynamic and responsive web applications. Proficient in ReactJS, TailwindCSS, MUI, and Axios
+<p>I am a dedicated and ambitious front-end web developer with a strong passion for creating dynamic and responsive web applications. Proficient in NextJs, ReactJS, TypeScript, TailwindCSS, Shadcn, and More!
 I leverage modern web technologies to deliver high-quality, user-centric solutions. 
 As a self-taught developer, I continuously seek opportunities to enhance my skills and contribute effectively to innovative projects.
 </p>
